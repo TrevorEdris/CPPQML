@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Artwork/football_field.png</file>
+        <file>Artwork/mario_running.gif</file>
+    </qresource>
+</RCC>

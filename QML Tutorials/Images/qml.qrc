@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DispImage.qml</file>
+        <file>ImageFiles/Purdue_CS.jpg</file>
+        <file>ImageFiles/Purdue_Logo.jpg</file>
+        <file>ImageFiles/Purdue_Lunabotics_Background.jpg</file>
+        <file>ImageFiles/Purdue_Lunabotics_Logo.jpeg</file>
+        <file>ImageFiles/Purdue_Physics.png</file>
+    </qresource>
+</RCC>

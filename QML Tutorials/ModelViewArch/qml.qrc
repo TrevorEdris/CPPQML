@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyModel.qml</file>
+        <file>MyDelegate.qml</file>
+        <file>Images/apple.png</file>
+        <file>Images/grape.jpg</file>
+        <file>Images/orange.png</file>
+        <file>Header.qml</file>
+    </qresource>
+</RCC>
